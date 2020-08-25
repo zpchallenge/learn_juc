@@ -29,7 +29,6 @@ interface Foo{
  * @create 2020/8/25 16:20
  */
 public class LambdaExpressDemo {
-
     public static void main(String[] args) {
         /*Foo foo = new Foo () {
             @Override
